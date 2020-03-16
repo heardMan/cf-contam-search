@@ -1,0 +1,672 @@
+Contaminant,Challenge,Filtrate,% Removal,Filter,Category
+Fluoride (2ppm),2.16,0.04,98.20%,Pitcher Filter,Fluoride
+Fluoride (4ppm),3.94,0.08,98.00%,Pitcher Filter,Fluoride
+Fluoride (8ppm),8.19,0.25,96.90%,Pitcher Filter,Fluoride
+PFAS,2.03,0.04,99.60%,Pitcher Filter,Perfluorinated Chemicals
+PFOA,2.03,0.04,99.60%,Pitcher Filter,Perfluorinated Chemicals
+PFOS,2.03,0.04,99.60%,Pitcher Filter,Perfluorinated Chemicals
+Glyphosate,802,<0.10,99.90%,Pitcher Filter,Herbicide
+Acifuorfen,99.7,<0.10,99.90%,Pitcher Filter,Herbicide
+Bemtazon,100.3,<0.10,99.90%,Pitcher Filter,Herbicide
+Chloramben,94.7,<0.10,99.90%,Pitcher Filter,Herbicide
+Dalapon,100,6.8,93.20%,Pitcher Filter,Herbicide
+Dicamba,102.8,<0.10,99.90%,Pitcher Filter,Herbicide
+Hexachloropentadiene,100.4,<0.10,99.90%,Pitcher Filter,Herbicide
+Pentachlorophenol,100.5,<0.10,99.90%,Pitcher Filter,Herbicide
+Quinchlorac,100.2,<0.10,99.90%,Pitcher Filter,Herbicide
+Silvex,100.8,<0.10,99.90%,Pitcher Filter,Herbicide
+Antimony,6,<0.50,99.90%,Pitcher Filter,Heavy Metals
+Arsenic,388,1.5,99.60%,Pitcher Filter,Heavy Metals
+Barium,1104,1.5,99.90%,Pitcher Filter,Heavy Metals
+Beryllium,6,<0.50,99.90%,Pitcher Filter,Heavy Metals
+Cadmium,29.4,<0.50,99.90%,Pitcher Filter,Heavy Metals
+Chromium-6,306,9.5,96.90%,Pitcher Filter,Heavy Metals
+Copper,3092,<0.50,99.90%,Pitcher Filter,Heavy Metals
+Iron,3020,18.6,99.40%,Pitcher Filter,Heavy Metals
+Lead,148,0.7,99.50%,Pitcher Filter,Heavy Metals
+Nickel,110,2.2,98.00%,Pitcher Filter,Heavy Metals
+Mercury,6,<0.50,99.90%,Pitcher Filter,Heavy Metals
+Manganese,1057,1.2,99.90%,Pitcher Filter,Heavy Metals
+Selenium,100,1.2,98.80%,Pitcher Filter,Heavy Metals
+Thallium,6,<0.50,99.90%,Pitcher Filter,Heavy Metals
+Zinc,1449,65.2,95.50%,Pitcher Filter,Heavy Metals
+Gross Alpha,45,<1,99.90%,Pitcher Filter,Radiological Contaminants
+Plutonium 238/239,45,<1,99.90%,Pitcher Filter,Radiological Contaminants
+Radium 226/228,45,<1,99.90%,Pitcher Filter,Radiological Contaminants
+Thorium 230,45,<1,99.90%,Pitcher Filter,Radiological Contaminants
+Uranium 235/238,45,<1,99.90%,Pitcher Filter,Radiological Contaminants
+Gross Beta,46,<1,99.90%,Pitcher Filter,Radiological Contaminants
+Cesium 137,46,<1,99.90%,Pitcher Filter,Radiological Contaminants
+Cobalt 60,46,<1,99.90%,Pitcher Filter,Radiological Contaminants
+Iodine 129/131,46,<1,99.90%,Pitcher Filter,Radiological Contaminants
+Strontium 90,46,<1,99.90%,Pitcher Filter,Radiological Contaminants
+Volatile Organic Compounds,294.4,1,99.70%,Pitcher Filter,Volatile Organic Compounds
+Total Trihalomethanes (TTHMs),294.4,1,99.70%,Pitcher Filter,Volatile Organic Compounds
+1/1-Dichloroethane,51.01,<0.50,99.90%,Pitcher Filter,Volatile Organic Compounds
+1/1-Dichloroethene,58.07,<0.50,99.90%,Pitcher Filter,Volatile Organic Compounds
+1/1-Dichloropropene,43.78,<0.50,99.90%,Pitcher Filter,Volatile Organic Compounds
+1/1/1-Trichloroethane,56.19,<0.50,99.90%,Pitcher Filter,Volatile Organic Compounds
+1/1/1/2-Tetrachloroethane,51.42,<0.50,99.90%,Pitcher Filter,Volatile Organic Compounds
+1/1/2-Trichloroethane,74.2,<0.50,99.90%,Pitcher Filter,Volatile Organic Compounds
+1/1/2-Trichloroethane,54.83,<0.50,99.90%,Pitcher Filter,Volatile Organic Compounds
+1/2-Dichlorobenzene,76.24,<0.50,99.90%,Pitcher Filter,Volatile Organic Compounds
+1/2-Dichloroethane,71.19,<0.50,99.90%,Pitcher Filter,Volatile Organic Compounds
+1/2-Dichloropropane,67.47,<0.50,99.90%,Pitcher Filter,Volatile Organic Compounds
+1/2/3-Trichlorobenzene,58.35,<0.50,99.90%,Pitcher Filter,Volatile Organic Compounds
+1/2/3-Trichloropropane,54.13,<0.50,99.90%,Pitcher Filter,Volatile Organic Compounds
+1/2/4-Trichlorobenzene,52.77,<0.50,99.90%,Pitcher Filter,Volatile Organic Compounds
+1/2/4-Trimethylbenzene,51.82,<0.50,99.90%,Pitcher Filter,Volatile Organic Compounds
+1/3-Dichlorobenzene,54.32,<0.50,99.90%,Pitcher Filter,Volatile Organic Compounds
+1/3-Dichloropropane,54.46,<0.50,99.90%,Pitcher Filter,Volatile Organic Compounds
+1/3/5-Trimethylbenzene,51.62,<0.50,99.90%,Pitcher Filter,Volatile Organic Compounds
+1/4-Dichlorobenzene,67.91,<0.50,99.90%,Pitcher Filter,Volatile Organic Compounds
+2-Chlorotoluene,51.1,<0.50,99.90%,Pitcher Filter,Volatile Organic Compounds
+2/2-Dichloropropane,45.94,<0.50,99.90%,Pitcher Filter,Volatile Organic Compounds
+4-Chlorotoluene,51.68,<0.50,99.90%,Pitcher Filter,Volatile Organic Compounds
+4-Isopropyltoluene,49.31,<0.50,99.90%,Pitcher Filter,Volatile Organic Compounds
+Benzene,50.13,<0.50,99.90%,Pitcher Filter,Volatile Organic Compounds
+Bromobenzene,46.42,<0.50,99.90%,Pitcher Filter,Volatile Organic Compounds
+Bromochloromethane,57.23,<0.50,99.90%,Pitcher Filter,Volatile Organic Compounds
+Bromodichloromethane,22.56,<0.50,99.90%,Pitcher Filter,Volatile Organic Compounds
+Bromoform,74.2,<0.50,99.90%,Pitcher Filter,Volatile Organic Compounds
+Bromomethane,55.77,<0.50,99.90%,Pitcher Filter,Volatile Organic Compounds
+Carbon Tetrachloride,53.41,<0.50,99.90%,Pitcher Filter,Volatile Organic Compounds
+Chlorobenzene,64.2,<0.50,99.90%,Pitcher Filter,Volatile Organic Compounds
+Chlorodibromomethane,58.65,<0.50,99.90%,Pitcher Filter,Volatile Organic Compounds
+Chloroethane,63.44,<0.50,99.90%,Pitcher Filter,Volatile Organic Compounds
+Chloroform,294.4,1,99.70%,Pitcher Filter,Volatile Organic Compounds
+Chloromethane,56.85,<0.50,99.90%,Pitcher Filter,Volatile Organic Compounds
+cis-1/2-Dichloroethene,65.78,<0.50,99.90%,Pitcher Filter,Volatile Organic Compounds
+cis-1/3-Dichloropropene,53.7,<0.50,99.90%,Pitcher Filter,Volatile Organic Compounds
+Dibromomethane,56.17,<0.50,99.90%,Pitcher Filter,Volatile Organic Compounds
+Dichlorodifluoromethane,50.91,<0.50,99.90%,Pitcher Filter,Volatile Organic Compounds
+Ethylbenzene,31.42,<0.50,99.90%,Pitcher Filter,Volatile Organic Compounds
+Hexachlorobutadiene,76.96,<0.50,99.90%,Pitcher Filter,Volatile Organic Compounds
+Isopropyl benzene,47.12,<0.50,99.90%,Pitcher Filter,Volatile Organic Compounds
+m-Xylene,99.8,<0.50,99.90%,Pitcher Filter,Volatile Organic Compounds
+MTBE,56.47,<0.50,99.90%,Pitcher Filter,Volatile Organic Compounds
+n-Butylbenzene,47.83,<0.50,99.90%,Pitcher Filter,Volatile Organic Compounds
+n-Propylbenzene,56.95,56.95,99.90%,Pitcher Filter,Volatile Organic Compounds
+Naphthalene,53.16,<0.50,99.90%,Pitcher Filter,Volatile Organic Compounds
+o-Xylene,77.59,<0.50,99.90%,Pitcher Filter,Volatile Organic Compounds
+sec-Butylbenzene,45.94,<0.50,99.90%,Pitcher Filter,Volatile Organic Compounds
+Styrene,55.89,<0.50,99.90%,Pitcher Filter,Volatile Organic Compounds
+tert-Butylbenzene,50.19,<0.50,99.90%,Pitcher Filter,Volatile Organic Compounds
+Tetrachloroethene,59.54,<0.50,99.90%,Pitcher Filter,Volatile Organic Compounds
+Toluene,48.57,<0.50,99.90%,Pitcher Filter,Volatile Organic Compounds
+trans-1/2-Dichloroehene,60.51,<0.50,99.90%,Pitcher Filter,Volatile Organic Compounds
+trans-1/3-Dichloropropene,55.32,<0.50,99.90%,Pitcher Filter,Volatile Organic Compounds
+Trichloroethene,54.15,<0.50,99.90%,Pitcher Filter,Volatile Organic Compounds
+Trichlorofluoromethane,43.57,<0.50,99.90%,Pitcher Filter,Volatile Organic Compounds
+Vinyl chloride,62.17,<0.50,99.90%,Pitcher Filter,Volatile Organic Compounds
+Chlorine,4,<0.10,99.90%,Pitcher Filter,Chemical Disinfectants
+Chloramines,4,<0.10,99.90%,Pitcher Filter,Chemical Disinfectants
+Microplastics,10^8/L,30/L,99.90%,Pitcher Filter,Microplastics
+Acetaminophen,20.3,<0.10,99.90%,Pitcher Filter,Pharmaceutical Drugs
+Bisphenol-A (BPA),20.1,<0.10,99.90%,Pitcher Filter,Pharmaceutical Drugs
+Caffeine,20,<0.10,99.90%,Pitcher Filter,Pharmaceutical Drugs
+Carbamazepine,20.1,<0.10,99.90%,Pitcher Filter,Pharmaceutical Drugs
+Ciprofloxacin,20.2,<0.10,99.90%,Pitcher Filter,Pharmaceutical Drugs
+Diclofenac Sodium,20.4,<0.10,99.90%,Pitcher Filter,Pharmaceutical Drugs
+Erythromycin,20.1,<0.10,99.90%,Pitcher Filter,Pharmaceutical Drugs
+Gemfibrozil,20.1,<0.10,99.90%,Pitcher Filter,Pharmaceutical Drugs
+Ibuprofen,20.4,<0.10,99.90%,Pitcher Filter,Pharmaceutical Drugs
+Naproxen Sodium,20.5,<0.10,99.90%,Pitcher Filter,Pharmaceutical Drugs
+Nitrate,27,0.2,99.30%,Pitcher Filter,Pharmaceutical Drugs
+Phthalates,40.4,<0.10,99.90%,Pitcher Filter,Pharmaceutical Drugs
+Phosphates,10,0.3,97.00%,Pitcher Filter,Pharmaceutical Drugs
+Progesterone,20,<0.10,99.90%,Pitcher Filter,Pharmaceutical Drugs
+Primidone,20.3,<0.10,99.90%,Pitcher Filter,Pharmaceutical Drugs
+Sulamethoxazole,20.2,<0.10,99.90%,Pitcher Filter,Pharmaceutical Drugs
+Trimethoprim,20,<0.10,99.90%,Pitcher Filter,Pharmaceutical Drugs
+Triclosan,20.2,<0.10,99.90%,Pitcher Filter,Pharmaceutical Drugs
+4-para-Nonylphenol,20.2,<0.10,99.90%,Pitcher Filter,Pharmaceutical Drugs
+4-tert-Octylphenol,20.1,<0.10,99.90%,Pitcher Filter,Pharmaceutical Drugs
+1/2-Dichlorobenzene,49.71,<0.10,99.90%,Pitcher Filter,Semi-Volatile Compounds
+1/2/4-Trichlorobenzene,48.9,<0.10,99.90%,Pitcher Filter,Semi-Volatile Compounds
+1/3-Dichlorobenzene,49.77,<0.10,99.90%,Pitcher Filter,Semi-Volatile Compounds
+1/4-Dichlorobenzene,49.66,<0.10,99.90%,Pitcher Filter,Semi-Volatile Compounds
+2-Chloronaphthalene,49.41,<0.10,99.90%,Pitcher Filter,Semi-Volatile Compounds
+2-Chlorophenol,49.62,<0.10,99.90%,Pitcher Filter,Semi-Volatile Compounds
+2-Nitrophenol,49.94,<0.10,99.90%,Pitcher Filter,Semi-Volatile Compounds
+2/2-Dimethylphenol,50.02,<0.10,99.90%,Pitcher Filter,Semi-Volatile Compounds
+2/2-Oxybis(1-chloropropane),49.68,<0.10,99.90%,Pitcher Filter,Semi-Volatile Compounds
+2/4-Dichlorophenol,50.33,<0.10,99.90%,Pitcher Filter,Semi-Volatile Compounds
+2/4-Dinitrophenol,49.33,<0.10,99.90%,Pitcher Filter,Semi-Volatile Compounds
+2/4-Dinitrotoluene,49.43,<0.10,99.90%,Pitcher Filter,Semi-Volatile Compounds
+2/4/6-Trichlorophenol,49.34,<0.10,99.90%,Pitcher Filter,Semi-Volatile Compounds
+2/6-Dinitrotoluene,49.39,<0.10,99.90%,Pitcher Filter,Semi-Volatile Compounds
+4-Bormophenyl phenyl ether,49.52,<0.10,99.90%,Pitcher Filter,Semi-Volatile Compounds
+4-Chloro-3-methylphenol,49.65,<0.10,99.90%,Pitcher Filter,Semi-Volatile Compounds
+4-Chlorophenyl phenyl ether,50.78,<0.10,99.90%,Pitcher Filter,Semi-Volatile Compounds
+4-Nitrotoluene,49.4,<0.10,99.90%,Pitcher Filter,Semi-Volatile Compounds
+Acenaphthene,49.16,<0.10,99.90%,Pitcher Filter,Semi-Volatile Compounds
+Acenaphthylene,49.41,<0.10,99.90%,Pitcher Filter,Semi-Volatile Compounds
+Anthracene,49.32,<0.10,99.90%,Pitcher Filter,Semi-Volatile Compounds
+Benzo(a) anthracene,49.31,<0.10,99.90%,Pitcher Filter,Semi-Volatile Compounds
+Benzo(a) pyrene,49.37,<0.10,99.90%,Pitcher Filter,Semi-Volatile Compounds
+Benzo(b) fluoranthene,49.88,<0.10,99.90%,Pitcher Filter,Semi-Volatile Compounds
+Benzo(g/h/i) perylene,49.32,<0.10,99.90%,Pitcher Filter,Semi-Volatile Compounds
+Benzo(k) fluoranthene,49.36,<0.10,99.90%,Pitcher Filter,Semi-Volatile Compounds
+Benzyl butyl phthalate,49.41,<0.10,99.90%,Pitcher Filter,Semi-Volatile Compounds
+Bis(2-chloroethoxy)methane,49.47,<0.10,99.90%,Pitcher Filter,Semi-Volatile Compounds
+Bis(2-chloroethyl) ether,49.86,<0.10,99.90%,Pitcher Filter,Semi-Volatile Compounds
+Bis(2-ethylhexyl) phthalate,49.37,0.64,98.70%,Pitcher Filter,Semi-Volatile Compounds
+Chrysene,49.39,3.65,92.60%,Pitcher Filter,Semi-Volatile Compounds
+Di-n-butylphthalate,49.29,<0.10,99.90%,Pitcher Filter,Semi-Volatile Compounds
+Di-n-octyl phthalate,49.27,<0.10,99.90%,Pitcher Filter,Semi-Volatile Compounds
+Dibenzo(a/h)anthracene,49.35,<0.10,99.90%,Pitcher Filter,Semi-Volatile Compounds
+Diethylphthalate,40.47,<0.10,99.90%,Pitcher Filter,Semi-Volatile Compounds
+Dimethylphthalate,49.49,<0.10,99.90%,Pitcher Filter,Semi-Volatile Compounds
+Dinitro-o-cresol,50.78,<0.10,99.90%,Pitcher Filter,Semi-Volatile Compounds
+Diphenylamine,40.47,<0.10,99.90%,Pitcher Filter,Semi-Volatile Compounds
+Fluoranthene,49.31,<0.10,99.90%,Pitcher Filter,Semi-Volatile Compounds
+Fluorene,49.39,<0.10,99.90%,Pitcher Filter,Semi-Volatile Compounds
+Haxachlorobenzene,48.06,1.53,96.80%,Pitcher Filter,Semi-Volatile Compounds
+Hexachlorobutadiene,49.4,<0.10,99.90%,Pitcher Filter,Semi-Volatile Compounds
+Hexachlorocyclopentadiene,49.19,<0.10,99.90%,Pitcher Filter,Semi-Volatile Compounds
+Hexachloroethane,49.77,<0.10,99.90%,Pitcher Filter,Semi-Volatile Compounds
+Indeno(1/2/3-cd) pyrene,49.28,<0.10,99.90%,Pitcher Filter,Semi-Volatile Compounds
+Isophrone,49.85,<0.10,99.90%,Pitcher Filter,Semi-Volatile Compounds
+N-Nitroso-di-n-propylamine,49.98,<0.10,99.90%,Pitcher Filter,Semi-Volatile Compounds
+N-Nitrosodimethylamine,49.84,<0.10,99.90%,Pitcher Filter,Semi-Volatile Compounds
+Naphthalene,49.37,<0.10,99.90%,Pitcher Filter,Semi-Volatile Compounds
+Nitrobenzene,49.66,<0.10,99.90%,Pitcher Filter,Semi-Volatile Compounds
+Pentachlorophenol,49.96,0.84,98.30%,Pitcher Filter,Semi-Volatile Compounds
+Phenantherene,49.18,<0.10,99.90%,Pitcher Filter,Semi-Volatile Compounds
+Phenol,49.87,<0.10,99.90%,Pitcher Filter,Semi-Volatile Compounds
+Pyrene,47.15,<0.10,99.90%,Pitcher Filter,Semi-Volatile Compounds
+2/4-D,50.1,<0.10,99.90%,Pitcher Filter,Pesticides
+Alachlor,498,0.11,99.90%,Pitcher Filter,Pesticides
+Aldrin,48.5,<0.10,99.90%,Pitcher Filter,Pesticides
+Atrazine,98.4,0.12,99.90%,Pitcher Filter,Pesticides
+Bromacil,50.1,<0.10,99.90%,Pitcher Filter,Pesticides
+Butachlor,50.3,<0.10,<0.10,Pitcher Filter,Pesticides
+Butylate,42.5,<0.10,99.90%,Pitcher Filter,Pesticides
+Chlorpyriphos,50.2,<0.10,99.90%,Pitcher Filter,Pesticides
+Cyanizine,50.5,<0.10,99.90%,Pitcher Filter,Pesticides
+Carbofuran,80.2,<0.10,99.90%,Pitcher Filter,Pesticides
+Chlorneb,50.5,<0.10,99.90%,Pitcher Filter,Pesticides
+Chlorthalonil,51.2,<0.10,99.90%,Pitcher Filter,Pesticides
+Chlorprophane,52.5,<0.10,99.90%,Pitcher Filter,Pesticides
+Cis-Chlordane,50.8,<0.10,99.90%,Pitcher Filter,Pesticides
+DDD,44.2,<0.10,99.90%,Pitcher Filter,Pesticides
+DDE,56.4,<0.10,99.90%,Pitcher Filter,Pesticides
+DDT,60.5,<0.10,99.90%,Pitcher Filter,Pesticides
+Dieldrin,47.5,<0.10,99.90%,Pitcher Filter,Pesticides
+Dichlorvos,51.4,<0.10,99.90%,Pitcher Filter,Pesticides
+Diphenamid,49,<0.10,99.90%,Pitcher Filter,Pesticides
+Disulfoton,50.2,<0.10,99.90%,Pitcher Filter,Pesticides
+Endrin,62.1,<0.10,99.90%,Pitcher Filter,Pesticides
+Endosulfan I,42.9,<0.10,99.90%,Pitcher Filter,Pesticides
+Endosulfan II,41.2,<0.10,99.90%,Pitcher Filter,Pesticides
+Endosulfan Sulfate,51,<0.10,99.90%,Pitcher Filter,Pesticides
+Endrin Aldehyde,45.1,<0.10,99.90%,Pitcher Filter,Pesticides
+Endrin Ketone,50.3,<0.10,99.90%,Pitcher Filter,Pesticides
+Ethoprop,50.4,<0.10,99.90%,Pitcher Filter,Pesticides
+Fenaiphos,52,<0.10,99.90%,Pitcher Filter,Pesticides
+Fenarimol,50,<0.10,99.90%,Pitcher Filter,Pesticides
+Fluoridone,50.1,<0.10,99.90%,Pitcher Filter,Pesticides
+Heptachlor,48.4,<0.10,99.90%,Pitcher Filter,Pesticides
+Heptachlor Epoxide,50.5,<0.10,99.90%,Pitcher Filter,Pesticides
+Hexachlorobenzene,50.1,<0.10,99.90%,Pitcher Filter,Pesticides
+Hexachlorocyclopentadiene,52,<0.10,99.90%,Pitcher Filter,Pesticides
+Molinate,51,<0.10,99.90%,Pitcher Filter,Pesticides
+Metribuzin,50.8,<0.10,99.90%,Pitcher Filter,Pesticides
+Methoxychlor,50.1,<0.10,99.90%,Pitcher Filter,Pesticides
+Metolachlor,50.2,<0.10,99.90%,Pitcher Filter,Pesticides
+Nano-Chlordane,48.5,<0.10,99.90%,Pitcher Filter,Pesticides
+PCBâ€™s,10.4,0.12,99.90%,Pitcher Filter,Pesticides
+Propachlor,50.2,<0.10,99.90%,Pitcher Filter,Pesticides
+Simazine,50,<0.10,99.90%,Pitcher Filter,Pesticides
+Toxaphene,15.1,<0.10,99.90%,Pitcher Filter,Pesticides
+Trans-Chlordane,50.5,<0.10,99.90%,Pitcher Filter,Pesticides
+Alpha-BHC,49,<0.10,99.90%,Pitcher Filter,Pesticides
+Beta-BHC,49.5,<0.10,99.90%,Pitcher Filter,Pesticides
+Delta-BHC,50.1,<0.10,99.90%,Pitcher Filter,Pesticides
+Gamma-BHC,50.2,<0.10,99.90%,Pitcher Filter,Pesticides
+E. Coli,10^8/L,30 CFU/L,99.90%,Pitcher Filter,"Bacteria, Cysts, and Microorganisms"
+Cryptosporidium,10^8/L,50 CFU/L,99.90%,Pitcher Filter,"Bacteria, Cysts, and Microorganisms"
+Giardia,10^8/L,50 CFU/L,99.90%,Pitcher Filter,"Bacteria, Cysts, and Microorganisms"
+Klebsiella Pneumoniae,10^8/L,30 CFU/L,99.90%,Pitcher Filter,"Bacteria, Cysts, and Microorganisms"
+Pseudomona Aeruginosa,10^8/L,40 CFU/L,99.90%,Pitcher Filter,"Bacteria, Cysts, and Microorganisms"
+Fluoride,0.7,<0.1,99.90%,Bottle Filter,Fluoride
+Fluoride,2.1,0.02,99.00%,Bottle Filter,Fluoride
+2/4-D,20.2,<0.10,99.90%,Bottle Filter,Herbicides
+2/4-DB,30.3,<0.10,99.90%,Bottle Filter,Herbicides
+2/4/5-T,150.2,<0.10,99.90%,Bottle Filter,Herbicides
+2/4/5-TP,2/4/5-TP,<0.10,99.90%,Bottle Filter,Herbicides
+3/5-Dichlorobenzoic,25.2,<0.10,99.90%,Bottle Filter,Herbicides
+Acifluoren,42.3,<0.10,99.90%,Bottle Filter,Herbicides
+Bentazon,40.4,<0.10,99.90%,Bottle Filter,Herbicides
+Chloramben,30.4,<0.10,99.90%,Bottle Filter,Herbicides
+DCP A,42.1,<0.10,99.90%,Bottle Filter,Herbicides
+Dicamba,150.1,<0.10,99.90%,Bottle Filter,Herbicides
+Diclorprop,150.5,<0.10,99.90%,Bottle Filter,Herbicides
+Dinosep,50.8,<0.10,99.90%,Bottle Filter,Herbicides
+Glyphosate,804.1,<0.10,99.90%,Bottle Filter,Herbicides
+Pentachlorophenol,21.3,<0.10,99.90%,Bottle Filter,Herbicides
+Picloram,41.2,<0.10,99.90%,Bottle Filter,Herbicides
+Quinclorac,41.7,<0.10,<0.10,Bottle Filter,Herbicides
+Lead,152,<1.0,99.90%,Bottle Filter,Heavy Metals
+Mercury,6.2,<0.5,99.90%,Bottle Filter,Heavy Metals
+1/1-Dichloroethane,90.18,<0.10,99.90%,Bottle Filter,Volatile Organic Compounds
+1/1-Dichloropropane,9.86,<0.10,99.90%,Bottle Filter,Volatile Organic Compounds
+1/1/2-Trichloroethane,110,<0.10,99.90%,Bottle Filter,Volatile Organic Compounds
+1/1/2/2-Tetrachloroethane,80.2,<0.10,99.90%,Bottle Filter,Volatile Organic Compounds
+1/2-Dibromo-3-Chloropropane,50.4,<0.10,99.90%,Bottle Filter,Volatile Organic Compounds
+1/2-Dichlorobenzene,80.2,<0.10,99.90%,Bottle Filter,Volatile Organic Compounds
+1/2-Dichloroethane,88.2,<0.10,99.90%,Bottle Filter,Volatile Organic Compounds
+1/2-Dichloropropane,80.2,<0.10,99.90%,Bottle Filter,Volatile Organic Compounds
+1/2/3-Trichlorobenzene,14.2,<0.10,99.90%,Bottle Filter,Volatile Organic Compounds
+1/2/3-Trichloropropane (TCP),20.21,<0.10,99.90%,Bottle Filter,Volatile Organic Compounds
+1/2/4-Trichlorobenzene,14.7,<0.10,99.90%,Bottle Filter,Volatile Organic Compounds
+1/2/4-Trimethylbenzene,10.89,<0.10,99.90%,Bottle Filter,Volatile Organic Compounds
+1/3-Dichlorobenzene,40.2,<0.10,99.90%,Bottle Filter,Volatile Organic Compounds
+1/3-Dichloropropane,90.26,<0.10,99.90%,Bottle Filter,Volatile Organic Compounds
+1/3/5-Trimethylbenzene,9.4,<0.10,99.90%,Bottle Filter,Volatile Organic Compounds
+1/4-Dichlorobenzene,40.2,<0.10,99.90%,Bottle Filter,Volatile Organic Compounds
+1/1-Dichloro-2-propanone,8.1,<0.10,99.90%,Bottle Filter,Volatile Organic Compounds
+1/1/1-Trichloro-2-propanone,14.2,<0.10,99.90%,Bottle Filter,Volatile Organic Compounds
+2-Chlorotoluene,10.08,<0.10,99.90%,Bottle Filter,Volatile Organic Compounds
+2/2-Dichloropropane,10.2,<0.10,99.90%,Bottle Filter,Volatile Organic Compounds
+4-Chlorotoluene,10.9,<0.10,99.90%,Bottle Filter,Volatile Organic Compounds
+4-Isopropyltoluene,10.3,<0.10,99.90%,Bottle Filter,Volatile Organic Compounds
+Benzene,80.5,<0.10,99.90%,Bottle Filter,Volatile Organic Compounds
+Bromoacetonitrile,20,<0.10,99.90%,Bottle Filter,Volatile Organic Compounds
+Bromobenzene,12.5,<0.10,99.90%,Bottle Filter,Volatile Organic Compounds
+Bromochloromethane,80.98,<0.10,99.90%,Bottle Filter,Volatile Organic Compounds
+Bromodichloromethane,112,<0.10,99.90%,Bottle Filter,Volatile Organic Compounds
+Bromoform,111.93,<0.10,99.90%,Bottle Filter,Volatile Organic Compounds
+Bromomethane,20.53,<0.10,99.90%,Bottle Filter,Volatile Organic Compounds
+Carbon Tetrachloride,89.5,<0.10,99.90%,Bottle Filter,Volatile Organic Compounds
+Chlorobenzene,78.2,<0.10,99.90%,Bottle Filter,Volatile Organic Compounds
+Chlorodibromomethane,110.52,<0.10,99.90%,Bottle Filter,Volatile Organic Compounds
+Chloroethane,28.1,<0.10,99.90%,Bottle Filter,Volatile Organic Compounds
+Chloroform,112.72,<0.10,99.90%,Bottle Filter,Volatile Organic Compounds
+Chloromethane,52.3,<0.10,99.90%,Bottle Filter,Volatile Organic Compounds
+cis-1/2-Dichloroethene,180.2,<0.10,99.90%,Bottle Filter,Volatile Organic Compounds
+cis-1/3-Dichloropropene,80.5,<0.10,99.90%,Bottle Filter,Volatile Organic Compounds
+Dibromoacetonitrile,24.6,<0.10,99.90%,Bottle Filter,Volatile Organic Compounds
+Dibromomethane,18.05,<0.10,99.90%,Bottle Filter,Volatile Organic Compounds
+Dichloroacetonitrile,9.9,<0.10,99.90%,Bottle Filter,Volatile Organic Compounds
+Ethylbenzene,88.2,<0.10,99.90%,Bottle Filter,Volatile Organic Compounds
+Ethylene Dibromide (EDB),44.5,<0.10,99.90%,Bottle Filter,Volatile Organic Compounds
+Flourotrichloromethane,28.1,<0.10,99.90%,Bottle Filter,Volatile Organic Compounds
+Hexachlorobutadiene,44.9,<0.10,99.90%,Bottle Filter,Volatile Organic Compounds
+Isopropylbenzene,6.8,<0.10,99.90%,Bottle Filter,Volatile Organic Compounds
+m and p-Xylene,80.3,<0.10,99.90%,Bottle Filter,Volatile Organic Compounds
+Methylene Chloride,20.02,<0.10,99.90%,Bottle Filter,Volatile Organic Compounds
+MTBE,15,<0.10,99.90%,Bottle Filter,Volatile Organic Compounds
+n-Butylbenzene,11.5,<0.10,99.90%,Bottle Filter,Volatile Organic Compounds
+n-propylbenzene,9.3,<0.10,99.90%,Bottle Filter,Volatile Organic Compounds
+Naphthalene,160.2,<0.10,99.90%,Bottle Filter,Volatile Organic Compounds
+o-Xylene,40.2,<0.10,99.90%,Bottle Filter,Volatile Organic Compounds
+sec-Butylbenzene,8.85,<0.10,99.90%,Bottle Filter,Volatile Organic Compounds
+Styrene,150,<0.10,99.90%,Bottle Filter,Volatile Organic Compounds
+Tert-Butylbenzene,10.14,<0.10,99.90%,Bottle Filter,Volatile Organic Compounds
+Tetrachloroethene,84.6,<0.10,99.90%,Bottle Filter,Volatile Organic Compounds
+Toluene,78.2,<0.10,99.90%,Bottle Filter,Volatile Organic Compounds
+Total Trihalomethanes,447.17,<0.10,99.90%,Bottle Filter,Volatile Organic Compounds
+trans-1/3-Dicloropropene,80.95,<0.10,99.90%,Bottle Filter,Volatile Organic Compounds
+Trichloroacetonitrile,15,<0.10,99.90%,Bottle Filter,Volatile Organic Compounds
+Trichloroethene,180.05,<0.10,99.90%,Bottle Filter,Volatile Organic Compounds
+Vinychloride,40.2,<0.10,99.90%,Bottle Filter,Volatile Organic Compounds
+Chlorine,4,<0.10,99.90%,Bottle Filter,Chemical Disinfectants
+Chloramines,4,<0.10,99.90%,Bottle Filter,Chemical Disinfectants
+17-alpha-Ethynylestradiol,2.14,<0.02,99.90%,Bottle Filter,Pharmaceutical Drugs
+17-beta-Estradiol,1.99,<0.02,99.90%,Bottle Filter,Pharmaceutical Drugs
+4-para-Nonylphenol,2.28,<0.02,99.90%,Bottle Filter,Pharmaceutical Drugs
+4-tert-Octylphenol,2.05,<0.02,99.90%,Bottle Filter,Pharmaceutical Drugs
+Acetaminophen,2.42,<0.02,99.90%,Bottle Filter,Pharmaceutical Drugs
+Bisphenol A,2.05,<0.02,99.90%,Bottle Filter,Pharmaceutical Drugs
+Caffeine,1.83,<0.02,99.90%,Bottle Filter,Pharmaceutical Drugs
+Carbamazepine,1.43,<0.02,99.90%,Bottle Filter,Pharmaceutical Drugs
+Ciprofloxacin,2.62,<0.02,99.90%,Bottle Filter,Pharmaceutical Drugs
+Diclofenac Sodium,1.9,<0.02,99.90%,Bottle Filter,Pharmaceutical Drugs
+Estrone,0.22,<0.02,99.90%,Bottle Filter,Pharmaceutical Drugs
+Fluoxetine,1.91,<0.02,99.90%,Bottle Filter,Pharmaceutical Drugs
+Gemfibrozil,1.92,<0.02,99.90%,Bottle Filter,Pharmaceutical Drugs
+Ibuprofen,0.4,<0.02,99.90%,Bottle Filter,Pharmaceutical Drugs
+Naproxen,0.2,<0.02,99.90%,Bottle Filter,Pharmaceutical Drugs
+Primidone,1.99,<0.02,99.90%,Bottle Filter,Pharmaceutical Drugs
+Progesterone,2.08,<0.02,99.90%,Bottle Filter,Pharmaceutical Drugs
+Sulfamethoxazole,1.95,<0.02,99.90%,Bottle Filter,Pharmaceutical Drugs
+Testosterone,1.44,<0.02,99.90%,Bottle Filter,Pharmaceutical Drugs
+Triclosan,1.2,<0.02,99.90%,Bottle Filter,Pharmaceutical Drugs
+Trimethoprim,2.2,<0.02,99.90%,Bottle Filter,Pharmaceutical Drugs
+1/2-Dichlorobenzene,50.4,<0.10,99.90%,Bottle Filter,Semi-Volatile Compounds
+1/2/4-Trichlorobenzene,48.8,<0.10,99.90%,Bottle Filter,Semi-Volatile Compounds
+1/3-Dichlorobenzene,50.4,<0.10,99.90%,Bottle Filter,Semi-Volatile Compounds
+1/4-Dichlorobenzene,49.5,<0.10,99.90%,Bottle Filter,Semi-Volatile Compounds
+2-Chloronaphthalene,50.1,<0.10,99.90%,Bottle Filter,Semi-Volatile Compounds
+2-Chlorophenol,50.9,<0.10,99.90%,Bottle Filter,Semi-Volatile Compounds
+2-Nitrophenol,49.8,<0.10,99.90%,Bottle Filter,Semi-Volatile Compounds
+2/2-Dimethylphenol,48.1,<0.10,99.90%,Bottle Filter,Semi-Volatile Compounds
+2/2-Oxybis(1-chloropropane),49,<0.10,99.90%,Bottle Filter,Semi-Volatile Compounds
+2/4-Dichlorophenol,48.4,<0.10,99.90%,Bottle Filter,Semi-Volatile Compounds
+2/4-Dinitrophenol,50,<0.10,99.90%,Bottle Filter,Semi-Volatile Compounds
+2/4-Dinitrotoluene,49.2,<0.10,99.90%,Bottle Filter,Semi-Volatile Compounds
+2/4/6-Trichlorophenol,50,<0.10,99.90%,Bottle Filter,Semi-Volatile Compounds
+2/6-Dinitrotoluene,46.6,<0.10,99.90%,Bottle Filter,Semi-Volatile Compounds
+4-Bormophenyl phenyl,46.8,<0.10,99.90%,Bottle Filter,Semi-Volatile Compounds
+4-Chloro-3-methylphenol,49.1,<0.10,99.90%,Bottle Filter,Semi-Volatile Compounds
+4-Chlorophenyl phenyl,49.8,<0.10,99.90%,Bottle Filter,Semi-Volatile Compounds
+4-Nitrotoluene,47.5,<0.10,99.90%,Bottle Filter,Semi-Volatile Compounds
+Acenaphthene,52,<0.10,99.90%,Bottle Filter,Semi-Volatile Compounds
+Acenaphthylene,49,<0.10,99.90%,Bottle Filter,Semi-Volatile Compounds
+Anthracene,49.8,<0.10,99.90%,Bottle Filter,Semi-Volatile Compounds
+Benzo(a) anthracene,50.3,<0.10,99.90%,Bottle Filter,Semi-Volatile Compounds
+Benzo(a) pyrene,50.6,<0.10,99.90%,Bottle Filter,Semi-Volatile Compounds
+Benzo(b) fluoranthene,52.3,<0.10,99.90%,Bottle Filter,Semi-Volatile Compounds
+Benzo(g/h/i) perylene,50.7,<0.10,99.90%,Bottle Filter,Semi-Volatile Compounds
+Benzo(k) fluoranthene,52.3,<0.10,99.90%,Bottle Filter,Semi-Volatile Compounds
+Benzyl butyl phthalate,50.9,<0.10,99.90%,Bottle Filter,Semi-Volatile Compounds
+Bis(2-chloroethoxy)methane,50,<0.10,99.90%,Bottle Filter,Semi-Volatile Compounds
+Bis(2-chloroethyl) ether,49.5,<0.10,99.90%,Bottle Filter,Semi-Volatile Compounds
+Bis(2-ethylhexyl) phthalate,52,<0.10,99.90%,Bottle Filter,Semi-Volatile Compounds
+Chrysene,50.3,<0.10,99.90%,Bottle Filter,Semi-Volatile Compounds
+Dalapon,270.5,<0.10,99.90%,Bottle Filter,Semi-Volatile Compounds
+Di-n-butylphthalate,50.4,<0.10,99.90%,Bottle Filter,Semi-Volatile Compounds
+Di-n-octyl phthalate,53.2,<0.10,99.90%,Bottle Filter,Semi-Volatile Compounds
+Dibenzo(a/h)anthracene,50.5,<0.10,99.90%,Bottle Filter,Semi-Volatile Compounds
+Diethylphthalate,49.2,<0.10,99.90%,Bottle Filter,Semi-Volatile Compounds
+Dimethylphthalate,50.9,<0.10,99.90%,Bottle Filter,Semi-Volatile Compounds
+Dinitro-o-cresol,48.2,<0.10,99.90%,Bottle Filter,Semi-Volatile Compounds
+Diphenylamine,51,<0.10,99.90%,Bottle Filter,Semi-Volatile Compounds
+Fluoranthene,50.4,<0.10,99.90%,Bottle Filter,Semi-Volatile Compounds
+Fluorene,47.9,<0.10,99.90%,Bottle Filter,Semi-Volatile Compounds
+Haxachlorobenzene,46.8,<0.10,99.90%,Bottle Filter,Semi-Volatile Compounds
+Hexachlorobutadiene,52,<0.10,99.90%,Bottle Filter,Semi-Volatile Compounds
+Hexachlorocyclopentadiene,50.7,<0.10,99.90%,Bottle Filter,Semi-Volatile Compounds
+Hexachloroethane,49.1,<0.10,99.90%,Bottle Filter,Semi-Volatile Compounds
+Indeno(1/2/3-cd) pyrene,50.2,<0.10,99.90%,Bottle Filter,Semi-Volatile Compounds
+Isophrone,50,<0.10,99.90%,Bottle Filter,Semi-Volatile Compounds
+N-Nitroso-di-n-propylamine,49.5,<0.10,99.90%,Bottle Filter,Semi-Volatile Compounds
+N-Nitrosodimethylamine,50.2,<0.10,99.90%,Bottle Filter,Semi-Volatile Compounds
+Naphthalene,48,<0.10,99.90%,Bottle Filter,Semi-Volatile Compounds
+Nitrobenzene,48.3,<0.10,99.90%,Bottle Filter,Semi-Volatile Compounds
+Pentachlorophenol,50.3,<0.10,99.90%,Bottle Filter,Semi-Volatile Compounds
+Phenantherene,49.9,<0.10,99.90%,Bottle Filter,Semi-Volatile Compounds
+Phenol,50.9,<0.10,99.90%,Bottle Filter,Semi-Volatile Compounds
+Pyrene,49.7,<0.10,99.90%,Bottle Filter,Semi-Volatile Compounds
+2/4-D,50.1,<0.10,99.90%,Bottle Filter,Pesticides
+Alachlor,502,<0.10,99.90%,Bottle Filter,Pesticides
+Aldrin,46.5,<0.10,99.90%,Bottle Filter,Pesticides
+Alpha-BHC,48,<0.10,99.90%,Bottle Filter,Pesticides
+Atrazine,101.4,<0.10,99.90%,Bottle Filter,Pesticides
+Beta-BHC,48.5,<0.10,99.90%,Bottle Filter,Pesticides
+Bromacil,50.3,<0.10,99.90%,Bottle Filter,Pesticides
+Butachlor,50.3,<0.10,99.90%,Bottle Filter,Pesticides
+Butylate,44.5,<0.10,99.90%,Bottle Filter,Pesticides
+Carbofuran,80.2,<0.10,99.90%,Bottle Filter,Pesticides
+Chlorneb,50.5,<0.10,99.90%,Bottle Filter,Pesticides
+Chlorprophane,52.5,<0.10,99.90%,Bottle Filter,Pesticides
+Chlorpyriphos,50.6,<0.10,99.90%,Bottle Filter,Pesticides
+Chlorthalonil,51.2,<0.10,99.90%,Bottle Filter,Pesticides
+Cis-Chlordane,50.8,<0.10,99.90%,Bottle Filter,Pesticides
+Cyanizine,50.5,<0.10,99.90%,Bottle Filter,Pesticides
+Delta-BHC,50.4,<0.10,99.90%,Bottle Filter,Pesticides
+Dichlorvos,52.4,<0.10,99.90%,Bottle Filter,Pesticides
+Dieldrin,47.5,<0.10,99.90%,Bottle Filter,Pesticides
+Diphenamid,51,<0.10,99.90%,Bottle Filter,Pesticides
+Disulfoton,50.7,<0.10,99.90%,Bottle Filter,Pesticides
+Endosulfan I,42.9,<0.10,99.90%,Bottle Filter,Pesticides
+Endosulfan II,31.2,<0.10,99.90%,Bottle Filter,Pesticides
+Endosulfan Sulfate,51.5,<0.10,99.90%,Bottle Filter,Pesticides
+Endrin,62.8,<0.10,99.90%,Bottle Filter,Pesticides
+Endrin Aldehyde,45.1,<0.10,99.90%,Bottle Filter,Pesticides
+Endrin Ketone,48.3,<0.10,99.90%,Bottle Filter,Pesticides
+Ethoprop,50.8,0.1,99.90%,Bottle Filter,Pesticides
+Fenamiphos,52,<0.10,99.90%,Bottle Filter,Pesticides
+Fenarimol,0.2,<0.10,99.90%,Bottle Filter,Pesticides
+Fluoridone,50.5,<0.10,99.90%,Bottle Filter,Pesticides
+Gamma-BHC (Lindane),50.2,<0.10,99.90%,Bottle Filter,Pesticides
+Heptachlor,48.4,<0.10,99.90%,Bottle Filter,Pesticides
+Heptachlor Epoxide,50.5,<0.10,99.90%,Bottle Filter,Pesticides
+Hexachlorobenzene,50.5,<0.10,99.90%,Bottle Filter,Pesticides
+Hexachlorocyclopentadiene,54,<0.10,99.90%,Bottle Filter,Pesticides
+Methoxychlor,50.1,<0.10,99.90%,Bottle Filter,Pesticides
+Metolachlor,50.2,<0.10,99.90%,Bottle Filter,Pesticides
+Metribuzin,51.8,<0.10,99.90%,Bottle Filter,Pesticides
+Molinate,51.8,<0.10,99.90%,Bottle Filter,Pesticides
+p/p’-DDD,44.2,<0.10,99.90%,Bottle Filter,Pesticides
+p/p’-DDE,56.2,<0.10,99.90%,Bottle Filter,Pesticides
+p/p’-DDT,60.5,<0.10,99.90%,Bottle Filter,Pesticides
+PCB's,10.2,<0.10,99.90%,Bottle Filter,Pesticides
+Propachlor,52.2,<0.10,99.90%,Bottle Filter,Pesticides
+Simazine,50,<0.10,99.90%,Bottle Filter,Pesticides
+Toxaphene,15.2,<0.10,99.90%,Bottle Filter,Pesticides
+Trans-Chlordane (Nonachlor),49.5,<0.10,99.90%,Bottle Filter,Pesticides
+Sodium Fluoride,2.2,0.1,99.50%,UTS,Fluoride
+Fluorotelomer alcohol 8:2,1.04,<0.002,99.90%,UTS,Perfluorinated Chemicals
+Perfluorobutane Sulfonate,1.04,<0.002,99.90%,UTS,Perfluorinated Chemicals
+Perfluorodecanoic acid,0.52,<0.002,99.90%,UTS,Perfluorinated Chemicals
+Perfluorohexane Sulfonate,1.04,<0.002,99.90%,UTS,Perfluorinated Chemicals
+Perfluorohexanoic acid,0.52,<0.002,99.90%,UTS,Perfluorinated Chemicals
+Perfluorononanoic acid,0.52,<0.002,99.90%,UTS,Perfluorinated Chemicals
+Perfluorooctane Sulfonate,1.04,<0.002,99.90%,UTS,Perfluorinated Chemicals
+Perfluorooctanoic Acid (*),0.52,<0.002,99.90%,UTS,Perfluorinated Chemicals
+Polytetrafluoroethylene,1.04,<0.002,99.90%,UTS,Perfluorinated Chemicals
+2/4-D,21.1,<0.1,99.90%,UTS,Herbicides
+2/4-DB,32.7,<0.1,99.90%,UTS,Herbicides
+2/4/5-T,150.9,<0.1,99.90%,UTS,Herbicides
+2/4/5-TP,17.6,<0.1,99.90%,UTS,Herbicides
+3/5-Dichlorobenzoic,28.9,<0.1,99.90%,UTS,Herbicides
+Acifluoren,42.7,<0.1,99.90%,UTS,Herbicides
+Bentazon,38.5,<0.1,99.90%,UTS,Herbicides
+Chloramben,28.1,<0.1,99.90%,UTS,Herbicides
+Dalapon,270.4,<0.1,99.90%,UTS,Herbicides
+DCPA,43.5,<0.1,99.90%,UTS,Herbicides
+Dicamba,150.7,<0.1,99.90%,UTS,Herbicides
+Diclorprop,150.2,<0.1,99.90%,UTS,Herbicides
+Dinosep,52.9,<0.1,99.90%,UTS,Herbicides
+Pentachlorophenol,22.9,<0.1,99.90%,UTS,Herbicides
+Picloram,39,<0.1,99.90%,UTS,Herbicides
+Quinclorac,43.5,<0.1,99.90%,UTS,Herbicides
+Aluminum,202,<1,99.90%,UTS,Heavy Metals
+Arsenic,50.6,2.9,94.30%,UTS,Heavy Metals
+Barium,929,1.5,99.80%,UTS,Heavy Metals
+Beryllium,50.1,<1,99.90%,UTS,Heavy Metals
+Cadmium,30.4,<1,99.90%,UTS,Heavy Metals
+Chromium-6,302,1.7,99.40%,UTS,Heavy Metals
+Copper,3025,24.4,99.20%,UTS,Heavy Metals
+Iron,3030,90.9,97.00%,UTS,Heavy Metals
+Lead,151,<1,99.90%,UTS,Heavy Metals
+Manganese,1002,<1,99.90%,UTS,Heavy Metals
+Mercury,6.1,<0.5,99.90%,UTS,Heavy Metals
+Nickel,104,1.5,98.60%,UTS,Heavy Metals
+Zinc,102,1,99.00%,UTS,Heavy Metals
+Gross Alpha (Thorium 230),263,1.2,99.50%,UTS,Radiological Elements
+Gross Beta (Cesium 137),51,1.3,97.50%,UTS,Radiological Elements
+1/1-Dichloroethane,92.8,<0.50,99.90%,UTS,Volatile Organic Compounds
+1/1-Dichloroethene,77.8,<0.50,99.90%,UTS,Volatile Organic Compounds
+1/1-Dichloropropane,8.7,<0.50,99.90%,UTS,Volatile Organic Compounds
+1/1/1-Trichloroethane,84.8,<0.50,99.90%,UTS,Volatile Organic Compounds
+1/1/2-Trichloroethane,110.2,<0.50,99.90%,UTS,Volatile Organic Compounds
+1/1/2/2-Tetrachloroethane,81.2,<0.50,99.90%,UTS,Volatile Organic Compounds
+1/2-Dichlorobenzene,80,<0.50,99.90%,UTS,Volatile Organic Compounds
+1/2-Dichloroethane,88.5,<0.50,99.90%,UTS,Volatile Organic Compounds
+1/2-Dichloropropane,80.1,<0.50,99.90%,UTS,Volatile Organic Compounds
+1/2/3-Trichlorobenzene,14.2,<0.50,99.90%,UTS,Volatile Organic Compounds
+1/2/3-Trichloropropane,19.2,<0.50,99.90%,UTS,Volatile Organic Compounds
+1/2/4-Trichlorobenzene,13.6,<0.50,99.90%,UTS,Volatile Organic Compounds
+1/2/4-Trimethylbenzene,9.8,<0.50,99.90%,UTS,Volatile Organic Compounds
+1/3-Dichlorobenzene,40.2,<0.50,99.90%,UTS,Volatile Organic Compounds
+1/3-Dichloropropane,92.6,<0.50,99.90%,UTS,Volatile Organic Compounds
+1/3/5-Trimethylbenzene,9.4,<0.50,99.90%,UTS,Volatile Organic Compounds
+1/4-Dichlorobenzene,40,<0.50,99.90%,UTS,Volatile Organic Compounds
+1/1-Dichloro-2-propanone,7.5,<0.50,99.90%,UTS,Volatile Organic Compounds
+1/1/1-Trichloro-2-propanone,14.2,<0.50,99.90%,UTS,Volatile Organic Compounds
+2-Chlorotoluene,10,<0.50,99.90%,UTS,Volatile Organic Compounds
+2/2-Dichloropropane,10,<0.50,99.90%,UTS,Volatile Organic Compounds
+4-Chlorotoluene,10.9,<0.50,99.90%,UTS,Volatile Organic Compounds
+4-Isopropyltoluene,10.3,<0.50,99.90%,UTS,Volatile Organic Compounds
+Benzene,80,<0.50,99.90%,UTS,Volatile Organic Compounds
+Bromoacetonitrile,22.5,<0.50,99.90%,UTS,Volatile Organic Compounds
+Bromobenzene,12.5,<0.50,99.90%,UTS,Volatile Organic Compounds
+Bromochloromethane,79.8,<0.50,99.90%,UTS,Volatile Organic Compounds
+Bromomethane,22.3,<0.50,99.90%,UTS,Volatile Organic Compounds
+Carbon Tetrachloride,88,<0.50,99.90%,UTS,Volatile Organic Compounds
+Chlorobenzene,77.2,<0.50,99.90%,UTS,Volatile Organic Compounds
+Chloroethane,28.1,<0.50,99.90%,UTS,Volatile Organic Compounds
+Chloromethane,52.2,<0.50,99.90%,UTS,Volatile Organic Compounds
+cis-1/2-Dichloroethene,181,1,99.90%,UTS,Volatile Organic Compounds
+cis-1/3-Dichloropropene,79.5,<0.50,99.90%,UTS,Volatile Organic Compounds
+Dibromo-3-Chloropropane,50.2,<0.50,99.90%,UTS,Volatile Organic Compounds
+Dibromoacetonitrile,24.6,<0.50,99.90%,UTS,Volatile Organic Compounds
+Dibromomethane,18.5,<0.50,99.90%,UTS,Volatile Organic Compounds
+Dichloroacetonitrile,9.9,<0.50,99.90%,UTS,Volatile Organic Compounds
+Ethylbenzene,88.2,<0.50,99.90%,UTS,Volatile Organic Compounds
+Ethylene Dibromide (EDB),44.8,<0.50,99.90%,UTS,Volatile Organic Compounds
+Flourotrichloromethane,28.3,<0.50,99.90%,UTS,Volatile Organic Compounds
+Hexachlorobutadiene,44.2,<0.50,99.90%,UTS,Volatile Organic Compounds
+Isopropylbenzene,6.8,<0.50,99.90%,UTS,Volatile Organic Compounds
+m and p-Xylene,80.3,<0.50,99.90%,UTS,Volatile Organic Compounds
+Methylene Chloride,18.2,<0.50,99.90%,UTS,Volatile Organic Compounds
+MTBE,73.4,<0.50,99.90%,UTS,Volatile Organic Compounds
+n-Butylbenzene,10,<0.50,99.90%,UTS,Volatile Organic Compounds
+n-propylbenzene,9.4,<0.50,99.90%,UTS,Volatile Organic Compounds
+Naphthalene,160,<0.50,99.90%,UTS,Volatile Organic Compounds
+o-Xylene,40.2,<0.50,99.90%,UTS,Volatile Organic Compounds
+sec-Butylbenzene,7.9,<0.50,99.90%,UTS,Volatile Organic Compounds
+Styrene,150,<0.50,99.90%,UTS,Volatile Organic Compounds
+Tert-Butylbenzene,10.1,<0.50,99.90%,UTS,Volatile Organic Compounds
+Tetrachloroethene,85.6,<0.50,99.90%,UTS,Volatile Organic Compounds
+Toluene,78.3,<0.50,99.90%,UTS,Volatile Organic Compounds
+trans-1/2-Dichloroethene,78.4,<0.50,99.90%,UTS,Volatile Organic Compounds
+trans-1/3-Dicloropropene,79.9,<0.50,99.90%,UTS,Volatile Organic Compounds
+Trichloroacetonitrile,15,<0.50,99.90%,UTS,Volatile Organic Compounds
+Trichloroethene,180,<0.50,99.90%,UTS,Volatile Organic Compounds
+Vinychloride,43.3,<0.50,99.90%,UTS,Volatile Organic Compounds
+Bromodichloromethane,84,<0.1,99.90%,UTS,Volatile Organic Compounds
+Bromoform,84.9,<0.1,99.90%,UTS,Volatile Organic Compounds
+Chlorodibromomethane,80.5,<0.1,99.90%,UTS,Volatile Organic Compounds
+Chloroform,85.7,1.39,98.40%,UTS,Volatile Organic Compounds
+Total Trihalomethanes,335,1.39,99.60%,UTS,Volatile Organic Compounds
+Chlorine,2.12,0.03,98.60%,UTS,Chemical Disinfectants
+Chloramines,2.98,0.14,95.30%,UTS,Chemical Disinfectants
+Bisphenol A,2.05,<0.02,99.90%,UTS,Pharmaceutical Drugs
+17-alpha-Ethynylestradiol,2.14,<0.10,99.90%,UTS,Pharmaceutical Drugs
+17-beta-Estradiol,1.99,<0.10,99.90%,UTS,Pharmaceutical Drugs
+4-para-Nonylphenol,2.28,<0.10,99.90%,UTS,Pharmaceutical Drugs
+4-tert-Octylphenol,2.05,<0.10,90.20%,UTS,Pharmaceutical Drugs
+Acetaminophen,2.42,<0.10,99.90%,UTS,Pharmaceutical Drugs
+Caffeine,1.82,<0.10,99.90%,UTS,Pharmaceutical Drugs
+Carbamazepine,1.43,<0.10,99.90%,UTS,Pharmaceutical Drugs
+Ciprofloxacin,2.6,<0.10,99.90%,UTS,Pharmaceutical Drugs
+Diclofenac Sodium,1.9,<0.10,99.90%,UTS,Pharmaceutical Drugs
+Estrone,0.23,<0.10,99.90%,UTS,Pharmaceutical Drugs
+Fluoxetine,1.91,<0.10,99.90%,UTS,Pharmaceutical Drugs
+Gemfibrozil,1.92,<0.10,99.90%,UTS,Pharmaceutical Drugs
+Ibuprofen,0.45,<0.10,99.90%,UTS,Pharmaceutical Drugs
+Naproxen,0.21,<0.10,99.90%,UTS,Pharmaceutical Drugs
+Primidone,1.97,<0.10,99.90%,UTS,Pharmaceutical Drugs
+Progesterone,2.08,0.22,89.40%,UTS,Pharmaceutical Drugs
+Sulfamethoxazole,1.95,<0.10,99.90%,UTS,Pharmaceutical Drugs
+Testosterone,1.44,0.3,79.20%,UTS,Pharmaceutical Drugs
+Triclosan,1.24,<0.10,99.90%,UTS,Pharmaceutical Drugs
+Trimethoprim,0.2,<0.10,99.90%,UTS,Pharmaceutical Drugs
+1/2-Dichlorobenzene,49.8,<0.10,99.90%,UTS,Semi VolatileOrganic Compounds
+1/2/4-Trichlorobenzene,48.4,<0.10,99.90%,UTS,Semi VolatileOrganic Compounds
+1/3-Dichlorobenzene,49.8,<0.10,99.90%,UTS,Semi VolatileOrganic Compounds
+1/4-Dichlorobenzene,50,<0.10,99.90%,UTS,Semi VolatileOrganic Compounds
+2-Chloronaphthalene,49.4,<0.10,99.90%,UTS,Semi VolatileOrganic Compounds
+2-Chlorophenol,49.5,<0.10,99.90%,UTS,Semi VolatileOrganic Compounds
+2-Nitrophenol,48.8,<0.10,99.90%,UTS,Semi VolatileOrganic Compounds
+2/2-Dimethylphenol,48.1,<0.10,99.90%,UTS,Semi VolatileOrganic Compounds
+2/2-Oxybis-1-chloropropane,49.4,<0.10,99.90%,UTS,Semi VolatileOrganic Compounds
+2/4-Dichlorophenol,48.9,<0.10,99.90%,UTS,Semi VolatileOrganic Compounds
+2/4-Dinitrophenol,50,<0.10,99.90%,UTS,Semi VolatileOrganic Compounds
+2/4-Dinitrotoluene,49.2,<0.10,99.90%,UTS,Semi VolatileOrganic Compounds
+2/4/6-Trichlorophenol,50,<0.10,99.90%,UTS,Semi VolatileOrganic Compounds
+2/6-Dinitrotoluene,46.5,<0.10,99.90%,UTS,Semi VolatileOrganic Compounds
+4-Bormophenyl phenyl ether,47.8,<0.10,99.90%,UTS,Semi VolatileOrganic Compounds
+4-Chloro-3-methylphenol,49.6,<0.10,99.90%,UTS,Semi VolatileOrganic Compounds
+4-Chlorophenyl phenyl ether,49.8,<0.10,99.90%,UTS,Semi VolatileOrganic Compounds
+4-Nitrotoluene,47.5,<0.10,99.90%,UTS,Semi VolatileOrganic Compounds
+Acenaphthene,35.9,<0.10,99.90%,UTS,Semi VolatileOrganic Compounds
+Acenaphthylene,50.1,<0.10,99.90%,UTS,Semi VolatileOrganic Compounds
+Anthracene,49.8,<0.10,99.90%,UTS,Semi VolatileOrganic Compounds
+Benzo(a) anthracene,50.3,<0.10,99.90%,UTS,Semi VolatileOrganic Compounds
+Benzo(a) pyrene,50.5,<0.10,99.90%,UTS,Semi VolatileOrganic Compounds
+Benzo(b) fluoranthene,52.3,<0.10,99.90%,UTS,Semi VolatileOrganic Compounds
+Benzo(g/h/i) perylene,50.2,<0.10,99.90%,UTS,Semi VolatileOrganic Compounds
+Benzo(k) fluoranthene,52.3,<0.10,99.90%,UTS,Semi VolatileOrganic Compounds
+Benzyl butyl phthalate,50.9,<0.10,99.90%,UTS,Semi VolatileOrganic Compounds
+Bis(2-chloroethoxy)methane,47.1,<0.10,99.90%,UTS,Semi VolatileOrganic Compounds
+Bis(2-chloroethyl) ether,51.8,<0.10,99.90%,UTS,Semi VolatileOrganic Compounds
+Bis(2-ethylhexyl) phthalate,52.6,<0.10,99.90%,UTS,Semi VolatileOrganic Compounds
+Chrysene,50.5,<0.10,99.90%,UTS,Semi VolatileOrganic Compounds
+Di-n-butylphthalate,50.3,<0.10,99.90%,UTS,Semi VolatileOrganic Compounds
+Di-n-octyl phthalate,50.1,<0.10,99.90%,UTS,Semi VolatileOrganic Compounds
+Dibenzo(a/h)anthracene,50.3,<0.10,99.90%,UTS,Semi VolatileOrganic Compounds
+Diethylphthalate,50.1,<0.10,99.90%,UTS,Semi VolatileOrganic Compounds
+Dimethylphthalate,49.2,<0.10,99.90%,UTS,Semi VolatileOrganic Compounds
+Dinitro-o-cresol,48.5,<0.10,99.90%,UTS,Semi VolatileOrganic Compounds
+Diphenylamine,73.2,<0.10,99.90%,UTS,Semi VolatileOrganic Compounds
+Fluoranthene,50.4,<0.10,99.90%,UTS,Semi VolatileOrganic Compounds
+Fluorene,47.8,<0.10,99.90%,UTS,Semi VolatileOrganic Compounds
+Haxachlorobenzene,48.8,<0.10,99.90%,UTS,Semi VolatileOrganic Compounds
+Hexachlorobutadiene,49.6,<0.10,99.90%,UTS,Semi VolatileOrganic Compounds
+Hexachlorocyclopentadiene,50.9,<0.10,99.90%,UTS,Semi VolatileOrganic Compounds
+Hexachloroethane,48.4,<0.10,99.90%,UTS,Semi VolatileOrganic Compounds
+Indeno(1/2/3-cd) pyrene,50.8,<0.10,99.90%,UTS,Semi VolatileOrganic Compounds
+Isophrone,48.8,<0.10,99.90%,UTS,Semi VolatileOrganic Compounds
+N-Nitroso-di-n-propylamine,50.2,<0.10,99.90%,UTS,Semi VolatileOrganic Compounds
+N-Nitrosodimethylamine,50.6,<0.10,99.90%,UTS,Semi VolatileOrganic Compounds
+Naphthalene,47.3,<0.10,99.90%,UTS,Semi VolatileOrganic Compounds
+Nitrobenzene,48.9,<0.10,99.90%,UTS,Semi VolatileOrganic Compounds
+Pentachlorophenol,50.3,<0.10,99.90%,UTS,Semi VolatileOrganic Compounds
+Phenantherene,49.8,<0.10,99.90%,UTS,Semi VolatileOrganic Compounds
+Phenol,50.9,<0.10,99.90%,UTS,Semi VolatileOrganic Compounds
+Pyrene,49.6,<0.10,99.90%,UTS,Semi VolatileOrganic Compounds
+Alachlor,501,<0.10,99.90%,UTS,Pesticides
+2/4-D,50.1,<0.10,99.90%,UTS,Pesticides
+Aldrin,48.5,<0.10,99.90%,UTS,Pesticides
+Alpha-BHC,49,<0.10,99.90%,UTS,Pesticides
+Atrazine,98.4,<0.10,99.90%,UTS,Pesticides
+Beta-BHC,49.2,<0.10,99.90%,UTS,Pesticides
+Bromacil,50.1,<0.10,99.90%,UTS,Pesticides
+Butachlor,50.2,<0.10,99.90%,UTS,Pesticides
+Butylate,42.5,<0.10,99.90%,UTS,Pesticides
+Carbofuran,80.4,<0.10,99.90%,UTS,Pesticides
+Chlorneb,50.5,<0.10,99.90%,UTS,Pesticides
+Chlorprophane,52.5,<0.10,99.90%,UTS,Pesticides
+Chlorpyriphos,50.2,<0.10,99.90%,UTS,Pesticides
+Chlorthalonil,51.2,<0.10,99.90%,UTS,Pesticides
+Cis-Chlordane,50.8,<0.10,99.90%,UTS,Pesticides
+Cyanizine,50.5,<0.10,99.90%,UTS,Pesticides
+Delta-BHC,50.1,<0.10,99.90%,UTS,Pesticides
+Dichlorvos,51.4,<0.10,99.90%,UTS,Pesticides
+Dieldrin,47.5,<0.10,99.90%,UTS,Pesticides
+Diphenamid,49,<0.10,99.90%,UTS,Pesticides
+Disulfoton,50.2,<0.10,99.90%,UTS,Pesticides
+Endosulfan I,42.9,<0.10,99.90%,UTS,Pesticides
+Endosulfan II,41.2,<0.10,99.90%,UTS,Pesticides
+Endosulfan Sulfate,51.5,<0.10,99.90%,UTS,Pesticides
+Endrin,62.1,<0.10,99.90%,UTS,Pesticides
+Endrin Aldehyde,45.1,<0.10,99.90%,UTS,Pesticides
+Endrin Ketone,50.3,<0.10,99.90%,UTS,Pesticides
+Ethoprop,50.4,<0.10,99.90%,UTS,Pesticides
+Fenamiphos,52.1,<0.10,99.90%,UTS,Pesticides
+Fenarimol,50,<0.10,99.90%,UTS,Pesticides
+Fluoridone,50.1,<0.10,99.90%,UTS,Pesticides
+Gamma-BHC (Lindane),50.2,<0.10,99.90%,UTS,Pesticides
+Glyphosate,804,<0.10,99.90%,UTS,Pesticides
+Heptachlor,48.4,<0.10,99.90%,UTS,Pesticides
+Heptachlor Epoxide,50.5,<0.10,99.90%,UTS,Pesticides
+Hexachlorobenzene,50.1,<0.10,99.90%,UTS,Pesticides
+Hexachlorocyclopentadiene,52,<0.10,99.90%,UTS,Pesticides
+Methoxychlor,50.1,<0.10,99.90%,UTS,Pesticides
+Metolachlor,50.2,<0.10,99.90%,UTS,Pesticides
+Metribuzin,50.8,<0.10,99.90%,UTS,Pesticides
+Molinate,51.1,<0.10,99.90%,UTS,Pesticides
+p/p’-DDD,44.1,<0.10,99.90%,UTS,Pesticides
+p/p’-DDE,56.4,<0.10,99.90%,UTS,Pesticides
+p/p’-DDT,60.5,<0.10,99.90%,UTS,Pesticides
+PCB's,10.4,<0.10,99.90%,UTS,Pesticides
+Propachlor,50.2,<0.10,99.90%,UTS,Pesticides
+Simazine,50,<0.10,99.90%,UTS,Pesticides
+Toxaphene,15.1,<0.10,99.90%,UTS,Pesticides
+Trans-Chlordane (Nonachlor),50.5,<0.10,99.90%,UTS,Pesticides
