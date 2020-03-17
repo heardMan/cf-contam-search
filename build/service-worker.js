@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/cf-contam-search/precache-manifest.cf12ddad7b87c2ca29c57ee721df8c18.js"
+  "/cf-contam-search/precache-manifest.ce09132d953683902a51b47ad07ab1bf.js"
 );
 
 self.addEventListener('message', (event) => {
