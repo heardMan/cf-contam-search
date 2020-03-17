@@ -80,6 +80,7 @@ const ContaminantSearch = (props) => {
                     // Read some more, and call this function again
                     setResults(results)
                     setTableData(results)
+
                     return
 
                 });
@@ -137,11 +138,11 @@ const ContaminantSearch = (props) => {
                 <table>
                     <thead>
                         <tr>
-                            <th>Contaminant</th>
-                            <th>Before Filter</th>
+                            <th>Contaminant Name</th>
+                            {/* <th>Before Filter</th>
                             <th>After Filter</th>
                             <th>Removal Rate</th>
-                            <th>Model</th>
+                            <th>Model</th> */}
                             {/* <th>Category</th> */}
                         </tr>
                     </thead>
@@ -151,11 +152,30 @@ const ContaminantSearch = (props) => {
 
                             return (
                                 <tr key={i}>
-                                    <td>{datum.Contaminant}</td>
-                                    <td>{datum.Challenge}</td>
+                                    <td>
+                                    <div>{datum.Contaminant}</div>
+                                    <div><img className='prodImg' alt='' src={datum.Model.Img}/></div>
+                                    <div>
+                                        <span>
+                                        
+                                        || - Pre: {datum.Challenge} - ||
+                                        </span>
+                                        <span>
+                                        
+                                        Post: {datum.Filtered} - ||
+                                        </span>
+                                        <span>
+                                            % Removed: {datum.Removal} - ||
+                                        </span>
+                                    </div>
+
+                                    
+                                    </td>
+
+                                    {/* <td>{datum.Challenge}</td>
                                     <td>{datum.Filtered}</td>
                                     <td>{datum.Removal}</td>
-                                    <td><img className='prodImg' alt='' src={datum.Model.Img}/></td>
+                                    <td><img className='prodImg' alt='' src={datum.Model.Img}/></td> */}
                                     {/* <td>{datum.Category}</td> */}
 
                                 </tr>
