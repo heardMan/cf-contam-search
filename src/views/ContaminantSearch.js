@@ -131,7 +131,7 @@ const ContaminantSearch = (props) => {
     return (
         <div>
             <div id="search">
-                <label>Filter:</label>
+                <label>Filter: </label>
                 <input type='text' value={query} onChange={changeQuery} />
             </div>
             <div id="resultsTable">
