@@ -30,7 +30,7 @@
     padding: 1rem;
 }
 
-#resultsTable tr:nth-child(even) {
+/* #resultsTable tr:nth-child(even) {
     padding: 1rem;
     background-color:#94d4ec;
     color: white;
@@ -43,12 +43,21 @@
 #resultsTable tr:active {
     background-color:#26a9d9;
     color: white;
+} */
+
+#resultsTable > td {
+    
+    border: solid 1px black!important;
+    width: 100%;
 }
 
-#resultsTable td {
-    display: inline-block;
+.contam-results {
+    width: 100%;
 }
 
+.contam-results td{
+    border: solid 1px black!important;
+}
 
 .prodImg {
     width:50px;

@@ -33,18 +33,18 @@ const ContaminantSearch = (props) => {
                         const model = (type) => {
                             let img;
                             let listing;
-                            if(type === 'Pitcher Filter'){
-                                img='./img/PitcherFilter.jpg';
-                                listing='https://www.clearlyfiltered.com/products/clean-water-pitcher-replacement-filter';
+                            if (type === 'Pitcher Filter') {
+                                img = './img/PitcherFilter.jpg';
+                                listing = 'https://www.clearlyfiltered.com/products/clean-water-pitcher-replacement-filter';
 
                             }
-                            if(type === 'Bottle Filter'){
-                                img='./img/BottleFilter.jpg';
-                                listing='https://www.clearlyfiltered.com/products/stainless-steel-filter-bottle-replacement-filter';
+                            if (type === 'Bottle Filter') {
+                                img = './img/BottleFilter.jpg';
+                                listing = 'https://www.clearlyfiltered.com/products/stainless-steel-filter-bottle-replacement-filter';
                             }
-                            if(type === 'UTS'){
-                                img='./img/UTS.jpg';
-                                listing='https://www.clearlyfiltered.com/products/3-stage-under-the-sink-filter-unit';
+                            if (type === 'UTS') {
+                                img = './img/UTS.jpg';
+                                listing = 'https://www.clearlyfiltered.com/products/3-stage-under-the-sink-filter-unit';
                             }
 
                             return ({
@@ -108,9 +108,9 @@ const ContaminantSearch = (props) => {
             console.log(result);
 
             if (
-                result.Contaminant.toUpperCase().indexOf(searchTerm.toUpperCase())> -1 ||
-                result.Model.Name.toUpperCase().indexOf(searchTerm.toUpperCase())> -1 ||
-                result.Category.toUpperCase().indexOf(searchTerm.toUpperCase())> -1
+                result.Contaminant.toUpperCase().indexOf(searchTerm.toUpperCase()) > -1 ||
+                result.Model.Name.toUpperCase().indexOf(searchTerm.toUpperCase()) > -1 ||
+                result.Category.toUpperCase().indexOf(searchTerm.toUpperCase()) > -1
             ) {
                 searchResults.push(result);
             }
@@ -139,11 +139,7 @@ const ContaminantSearch = (props) => {
                     <thead>
                         <tr>
                             <th>Contaminant Name</th>
-                            {/* <th>Before Filter</th>
-                            <th>After Filter</th>
-                            <th>Removal Rate</th>
-                            <th>Model</th> */}
-                            {/* <th>Category</th> */}
+
                         </tr>
                     </thead>
                     <tbody>
@@ -153,23 +149,32 @@ const ContaminantSearch = (props) => {
                             return (
                                 <tr key={i}>
                                     <td>
-                                    <div>{datum.Contaminant}</div>
-                                    <div><img className='prodImg' alt='' src={datum.Model.Img}/></div>
-                                    <div>
-                                        <span>
-                                        
-                                        || - Pre: {datum.Challenge} - ||
-                                        </span>
-                                        <span>
-                                        
-                                        Post: {datum.Filtered} - ||
-                                        </span>
-                                        <span>
-                                            % Removed: {datum.Removal} - ||
-                                        </span>
-                                    </div>
+                                        <div>{datum.Contaminant}</div>
+                                        <div><img className='prodImg' alt='' src={datum.Model.Img} /></div>
+                                        <div>
+                                            <table className='contam-results'>
+                                                <thead>
+                                                    <tr>
+                                                        <td>Pre Filter</td>
+                                                        <td>Post Filter</td>
+                                                        <td>%</td>
+                                                    </tr>
+                                                </thead>
+                                                <tbody>
+                                                   
+                                                    <tr>
+                                                        <td>{datum.Challenge}</td>
+                                                        <td>{datum.Filtered}</td>
+                                                        <td>{datum.Removal}</td>
+                                                    </tr>
+                                                </tbody>
+                                            </table>
 
-                                    
+
+
+                                        </div>
+
+
                                     </td>
 
                                     {/* <td>{datum.Challenge}</td>
