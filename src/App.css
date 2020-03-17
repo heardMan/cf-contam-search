@@ -1,0 +1,53 @@
+
+#title{
+    text-align: center;
+}
+
+#search{
+    text-align: center;
+    margin: 1rem;
+}
+#search input {
+    font-size: 1rem;
+    border-radius: 5px;
+    border: solid 1px;
+}
+#resultsTable{
+    text-align: center;
+}
+#resultsTable table{
+    margin-right: auto;
+    margin-left:auto;
+    border-collapse: collapse;
+    font-weight: 700;
+}
+#resultsTable thead {
+    color: white;
+    background-color: #94d4ec;
+}
+#resultsTable th {
+    padding: 1rem;
+}
+
+#resultsTable tr:nth-child(even) {
+    padding: 1rem;
+    background-color:#94d4ec;
+    color: white;
+}
+
+#resultsTable tr:hover {
+    background-color:#26a9d9;
+    color: white;
+}
+#resultsTable tr:active {
+    background-color:#26a9d9;
+    color: white;
+}
+
+
+
+
+.prodImg {
+    width:50px;
+    height:auto;
+}

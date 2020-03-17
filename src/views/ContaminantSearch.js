@@ -30,6 +30,30 @@ const ContaminantSearch = (props) => {
                     for (let i = 1; i < rows.length; i++) {
                         let currentRow = rows[i].split(',');
 
+                        const model = (type) => {
+                            let img;
+                            let listing;
+                            if(type === 'Pitcher Filter'){
+                                img='./img/PitcherFilter.jpg';
+                                listing='https://www.clearlyfiltered.com/products/clean-water-pitcher-replacement-filter';
+
+                            }
+                            if(type === 'Bottle Filter'){
+                                img='./img/BottleFilter.jpg';
+                                listing='https://www.clearlyfiltered.com/products/stainless-steel-filter-bottle-replacement-filter';
+                            }
+                            if(type === 'UTS'){
+                                img='./img/UTS.jpg';
+                                listing='https://www.clearlyfiltered.com/products/3-stage-under-the-sink-filter-unit';
+                            }
+
+                            return ({
+                                'Name': type,
+                                'Img': img,
+                                'Listing': listing
+                            });
+                        }
+
                         const category = () => {
                             let field = currentRow[5];
                             if (currentRow[6]) {
@@ -38,12 +62,14 @@ const ContaminantSearch = (props) => {
                             return field;
                         }
 
+
+
                         let newRecord = {
                             'Contaminant': currentRow[0],
                             'Challenge': currentRow[1],
                             'Filtered': currentRow[2],
                             'Removal': currentRow[3],
-                            'Model': currentRow[4],
+                            'Model': model(currentRow[4]),
                             'Category': category()
                         };
 
@@ -82,7 +108,7 @@ const ContaminantSearch = (props) => {
 
             if (
                 result.Contaminant.toUpperCase().indexOf(searchTerm.toUpperCase())> -1 ||
-                result.Model.toUpperCase().indexOf(searchTerm.toUpperCase())> -1 ||
+                result.Model.Name.toUpperCase().indexOf(searchTerm.toUpperCase())> -1 ||
                 result.Category.toUpperCase().indexOf(searchTerm.toUpperCase())> -1
             ) {
                 searchResults.push(result);
@@ -104,23 +130,24 @@ const ContaminantSearch = (props) => {
     return (
         <div>
             <div id="search">
-                <label>Search:</label>
+                <label>Filter:</label>
                 <input type='text' value={query} onChange={changeQuery} />
             </div>
             <div id="resultsTable">
                 <table>
                     <thead>
                         <tr>
-                            <td>Contaminant</td>
-                            <td>Challenge Water</td>
-                            <td>Filtered Water</td>
-                            <td>Removal Rate</td>
-                            <td>Filter</td>
-                            <td>Category</td>
+                            <th>Contaminant</th>
+                            <th>Before Filter</th>
+                            <th>After Filter</th>
+                            <th>Removal Rate</th>
+                            <th>Model</th>
+                            {/* <th>Category</th> */}
                         </tr>
                     </thead>
                     <tbody>
                         {tableData.map((datum, i) => {
+                            console.log(datum.Model);
 
                             return (
                                 <tr key={i}>
@@ -128,8 +155,8 @@ const ContaminantSearch = (props) => {
                                     <td>{datum.Challenge}</td>
                                     <td>{datum.Filtered}</td>
                                     <td>{datum.Removal}</td>
-                                    <td>{datum.Model}</td>
-                                    <td>{datum.Category}</td>
+                                    <td><img className='prodImg' alt='' src={datum.Model.Img}/></td>
+                                    {/* <td>{datum.Category}</td> */}
 
                                 </tr>
                             );
