@@ -134,62 +134,40 @@ const ContaminantSearch = (props) => {
                 <label>Filter: </label>
                 <input type='text' value={query} onChange={changeQuery} />
             </div>
-            <div id="resultsTable">
-                <table>
-                    <thead>
-                        <tr>
-                            <th>Contaminant Name</th>
+            {/* <div id="results"> */}
+                <div id='resultsList'>
+                    {tableData.map((datum, i) => {
+                        console.log(datum.Model);
 
-                        </tr>
-                    </thead>
-                    <tbody>
-                        {tableData.map((datum, i) => {
-                            console.log(datum.Model);
+                        return (
+                            <div className='result-card' key={i}>
 
-                            return (
-                                <tr key={i}>
-                                    <td>
-                                        <div>{datum.Contaminant}</div>
-                                        <div><img className='prodImg' alt='' src={datum.Model.Img} /></div>
-                                        <div>
-                                            <table className='contam-results'>
-                                                <thead>
-                                                    <tr>
-                                                        <td>Pre Filter</td>
-                                                        <td>Post Filter</td>
-                                                        <td>%</td>
-                                                    </tr>
-                                                </thead>
-                                                <tbody>
-                                                   
-                                                    <tr>
-                                                        <td>{datum.Challenge}</td>
-                                                        <td>{datum.Filtered}</td>
-                                                        <td>{datum.Removal}</td>
-                                                    </tr>
-                                                </tbody>
-                                            </table>
+                                <div>{datum.Contaminant}</div>
+                                <div><img className='prodImg' alt='' src={datum.Model.Img} /></div>
+                                <div>
+                                    <table className='results-table'>
+                                        <thead>
+                                            <tr>
+                                                <th>Pre Filter</th>
+                                                <th>Post Filter</th>
+                                                <th>%</th>
+                                            </tr>
+                                        </thead>
+                                        <tbody>
 
-
-
-                                        </div>
-
-
-                                    </td>
-
-                                    {/* <td>{datum.Challenge}</td>
-                                    <td>{datum.Filtered}</td>
-                                    <td>{datum.Removal}</td>
-                                    <td><img className='prodImg' alt='' src={datum.Model.Img}/></td> */}
-                                    {/* <td>{datum.Category}</td> */}
-
-                                </tr>
-                            );
-
-                        })}
-                    </tbody>
-                </table>
-            </div>
+                                            <tr>
+                                                <td>{datum.Challenge}</td>
+                                                <td>{datum.Filtered}</td>
+                                                <td>{datum.Removal}</td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                </div>
+                            </div>
+                        );
+                    })}
+                </div>
+            {/* </div> */}
         </div>
     );
 };
