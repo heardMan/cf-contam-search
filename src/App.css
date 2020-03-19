@@ -44,6 +44,19 @@
     padding: 1rem;
     border: solid 1px black;
     border-radius: 5px;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.5);
+    width: 250px;
+    height:auto;
+}
+
+.result-card:hover {
+    box-shadow: 10px 10px 5px rgba(0, 0, 0, 0.5);
+    transform: scale(1.02);
+}
+
+.result-card:active {
+    box-shadow: 0px 0px 0px rgba(0, 0, 0, 0.5);
+    transform: scale(1.00);
 }
 
 .results-table {
@@ -63,6 +76,6 @@
 }
 
 .prodImg {
-    width:200px;
-    height:auto;
+    height:150px;
+    width:auto;
 }
