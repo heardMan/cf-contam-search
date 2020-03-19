@@ -1,24 +1,32 @@
+body {
+    background-color: #67809f;
+}
+
 #title{
     text-align: center;
+    color: white;
 }
 
 #search{
     text-align: center;
     margin: 1rem;
     font-size: 1.5rem;
-    min-width:300px;
     margin-right: auto;
     margin-left:auto;
 }
 
 #search label {
     display: block;
+    color: white;
+    font-weight: 700;
 }
 
 #search input {
+    margin-top: 1rem;
     font-size: 1.5rem;
     border-radius: 5px;
     border: solid 1px;
+    width:280px;
 }
 
 /* #results {
@@ -47,6 +55,7 @@
     box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.5);
     width: 250px;
     height:auto;
+    background-color: white;
 }
 
 .result-card:hover {
