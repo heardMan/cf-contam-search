@@ -55,9 +55,9 @@ const ContaminantSearch = (props) => {
                         }
 
                         const category = () => {
-                            let field = currentRow[5];
-                            if (currentRow[6]) {
-                                field += currentRow[6] + currentRow[7];
+                            let field = currentRow[6];
+                            if (currentRow[7]) {
+                                field += currentRow[7] + currentRow[8];
                             }
                             return field;
                         }
@@ -66,10 +66,12 @@ const ContaminantSearch = (props) => {
 
                         let newRecord = {
                             'Contaminant': currentRow[0],
-                            'Challenge': currentRow[1],
-                            'Filtered': currentRow[2],
-                            'Removal': currentRow[3],
-                            'Model': model(currentRow[4]),
+                            'PreFilter': currentRow[1],
+                            'PreFilterUnits': currentRow[2],
+                            'PostFilter': currentRow[3],
+                            'PostFilterUnits': currentRow[4],
+                            'Removal': currentRow[5],
+                            'Model': model(currentRow[6]),
                             'Category': category()
                         };
 
@@ -135,38 +137,38 @@ const ContaminantSearch = (props) => {
                 <input type='text' value={query} onChange={changeQuery} />
             </div>
             {/* <div id="results"> */}
-                <div id='resultsList'>
-                    {tableData.map((datum, i) => {
-                        console.log(datum.Model);
+            <div id='resultsList'>
+                {tableData.map((datum, i) => {
+                    console.log(datum);
 
-                        return (
-                            <div className='result-card' key={i}>
+                    return (
+                        <div className='result-card' key={i}>
 
-                                <div>{datum.Contaminant}</div>
-                                <div><img className='prodImg' alt='' src={datum.Model.Img} /></div>
-                                <div>
-                                    <table className='results-table'>
-                                        <thead>
-                                            <tr>
-                                                <th>Pre Filter</th>
-                                                <th>Post Filter</th>
-                                                <th>%</th>
-                                            </tr>
-                                        </thead>
-                                        <tbody>
+                            <div>{datum.Contaminant}</div>
+                            <div><img className='prodImg' alt='' src={datum.Model.Img} /></div>
+                            <div>
+                                <table className='results-table'>
+                                    <thead>
+                                        <tr>
+                                            <th>Pre Filter</th>
+                                            <th>Post Filter</th>
+                                            <th>%</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
 
-                                            <tr>
-                                                <td>{datum.Challenge}</td>
-                                                <td>{datum.Filtered}</td>
-                                                <td>{datum.Removal}</td>
-                                            </tr>
-                                        </tbody>
-                                    </table>
-                                </div>
+                                        <tr>
+                                            <td>{datum.PreFilter} {datum.PreFilterUnits}</td>
+                                            <td>{datum.PostFilter} {datum.PostFilterUnits}</td>
+                                            <td>{datum.Removal}</td>
+                                        </tr>
+                                    </tbody>
+                                </table>
                             </div>
-                        );
-                    })}
-                </div>
+                        </div>
+                    );
+                })}
+            </div>
             {/* </div> */}
         </div>
     );

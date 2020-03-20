@@ -29,10 +29,6 @@ body {
     width:280px;
 }
 
-/* #results {
-    width:100%;
-} */
-
 #resultsList {
     display: flex;
     flex-wrap: wrap;
@@ -78,10 +74,6 @@ body {
    background-color: #7dcbe8;
    color: white;
    padding: 0.5rem;
-}
-
-.results-table td{
-    /* padding: 0.5rem; */
 }
 
 .prodImg {
