@@ -64,6 +64,8 @@ const ContaminantSearch = (props) => {
 
 
 
+
+
                         let newRecord = {
                             'Contaminant': currentRow[0],
                             'PreFilter': currentRow[1],
@@ -76,6 +78,7 @@ const ContaminantSearch = (props) => {
                         };
 
                         results.push(newRecord);
+                        console.log(newRecord)
 
                     }
 
